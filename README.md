@@ -128,15 +128,12 @@ a single persona selected to confirm it responds "I don't know."
 <img width="1118" height="1355" alt="image" src="https://github.com/user-attachments/assets/638ba035-2f0b-4204-b6ea-49f580e82b1f" />
 
 
-_Add screenshots of the interface here: question input, persona selection,
-single-persona response, multi-persona response with comparison table._
-
 ## 11. Created by: Harsh Trivedi
 
 ## Repository Structure
 
 ```
-project/
+github/Harshtrivedi456/PEGAI/Career-Case-File/
 ├── index.html      # complete app: HTML + CSS + JS
 ├── README.md
 └── assets/         # screenshots / demo assets go here
