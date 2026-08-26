@@ -123,19 +123,16 @@ a single persona selected to confirm it responds "I don't know."
 
 ## 9. Sample Outputs
 
-_Add 1–2 screenshots or pasted transcripts here after running the app,
-showing:_
-- _a single-persona response_
-- _a multi-persona response with the comparison table_
+<img width="1066" height="846" alt="image" src="https://github.com/user-attachments/assets/f7311bf1-2583-48c4-9cf9-ac44eae63137" />
+<img width="1118" height="1355" alt="image" src="https://github.com/user-attachments/assets/249f43bf-37c0-4919-9cb4-73f7315b4cc5" />
+<img width="1118" height="1355" alt="image" src="https://github.com/user-attachments/assets/5b832340-3b97-44cd-b394-ac93f61ac628" />
+<img width="1118" height="1355" alt="image" src="https://github.com/user-attachments/assets/638ba035-2f0b-4204-b6ea-49f580e82b1f" />
 
-## 10. Screenshots
 
 _Add screenshots of the interface here: question input, persona selection,
 single-persona response, multi-persona response with comparison table._
 
-## 11. Team Members
-
-- _Add team member names here_
+## 11. Created by: Harsh Trivedi
 
 ## Repository Structure
 
